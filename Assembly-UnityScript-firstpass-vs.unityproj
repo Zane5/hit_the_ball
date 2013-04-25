@@ -53,6 +53,7 @@
      <Compile Include="Assets\Standard Assets\Character Controllers\Sources\Scripts\j001_movement.js" />
      <Compile Include="Assets\Standard Assets\Character Controllers\Sources\Scripts\j002_scrolling_texture.js" />
      <Compile Include="Assets\Standard Assets\Character Controllers\Sources\Scripts\j004_pause_menu.js" />
+     <Compile Include="Assets\Standard Assets\Character Controllers\Sources\Scripts\j006_moving_objects.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
